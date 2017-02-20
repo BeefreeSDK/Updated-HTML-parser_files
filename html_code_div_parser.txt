@@ -1,0 +1,17 @@
+<div style="background-color:transparent;">
+    <div style="Margin: 0 auto;min-width: 320px;max-width: 600px;width: calc(29000% - 179200px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent" class="block-grid ">
+        <div style="border-collapse: collapse;display: table;width: 100%;">
+            <div rel="col-num-container-box" class="col num12" style="min-width: 320px;max-width: 600px;width: 320px;width: calc(28000% - 167400px);background-color: transparent;">
+               <div style="background-color: transparent; border-top: 0px solid transparent; border-left: 0px solid transparent; border-bottom: 0px solid transparent; border-right: 0px solid transparent;">
+                  <div style="line-height: 5px; font-size:1px">&nbsp;</div>
+                    <div style="Margin-right: 10px; Margin-left: 10px;">
+                        <div style="line-height: 10px; font-size: 1px">&nbsp;</div>
+                        <div style="font-size:12px;line-height:14px;font-family:Bitter, Georgia, Times, &quot;Times New Roman&quot;, serif;color:#555555;text-align:left;"><p style="margin: 0;font-size: 14px;line-height: 17px"><span style="font-size: 18px; line-height: 21px;">Proin at eros non eros adipiscing mollis. Donec semper turpis sed diam. Sed consequat ligula nec tortor. Integer eget sem. Ut vitae enim eu est vehicula gravida. Morbi ipsum ipsum, porta nec, tempor id, auctor vitae, purus. Pellentesque neque. Nulla luctus erat vitae libero. Integer nec enim. Phasellus aliquam enim et tortor. Quisque aliquet, quam elementum condimentum feugiat, tellus odio consectetuer wisi, vel nonummy sem neque in elit. Curabitur eleifend wisi iaculis ipsum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non velit non ligula laoreet ultrices. Praesent ultricies facilisis nisl. Vivamus luctus elit sit amet mi. Phasellus pellentesque, erat eget elementum volutpat, dolor nisl porta neque, vitae sodales ipsum nibh in ligula. Maecenas mattis pulvinar diam. Curabitur sed leo.</span></p></div>
+                        <div style="line-height: 10px; font-size: 1px">&nbsp;</div>
+                    </div>
+                    <div style="line-height: 5px; font-size: 1px">&nbsp;</div> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
